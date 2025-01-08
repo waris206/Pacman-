@@ -16,7 +16,6 @@ This project implements a classic Pac-Man game using Assembly language (8086) in
   - [Level 3: The Showdown](#level-3-the-showdown)
 - [Additional Information](#additional-information)
 - [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
@@ -108,14 +107,7 @@ This project implements a classic Pac-Man game using Assembly language (8086) in
 
 ---
 
-## Screenshots
 
-Include images for:
-- **Welcome Screen**
-- **Gameplay Screen**
-- **High Scores Screen**
-
----
 
 ## Future Enhancements
 
