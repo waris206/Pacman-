@@ -1,0 +1,16 @@
+
+Instructions:
+
+        Navigate Pac-Man through the maze, eating all the dots ('.') to advance to the next level! :)
+
+   1.Use W, S, A, D to move Up, Down, Left, and Right respectively. :)
+   2.Gain points by eating dots ('.'). Extra points for completing levels! :)
+   3.Avoid the ghosts ,they will eat you! :'(
+   4.For pause press P
+   5.For resume press R
+   6.Press 3 to quit the game.
+Bonus Tips:
+
+   Be quick and smart to eat all the dots and avoid the ghosts. :)
+   Look out for surprises that might help you! ;)
+Press Q to exit these instructions and start your game. Good luck! :)
